@@ -1,0 +1,17 @@
+{
+  "name": "github-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "css": "^2.2.1",
+    "css-parse": "^2.0.0",
+    "underscore": "^1.8.3"
+  }
+}
